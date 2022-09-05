@@ -1,0 +1,7 @@
+import time
+
+def sayhello():
+    print("hello")
+while True:
+    sayhello()
+    time.sleep(600)
